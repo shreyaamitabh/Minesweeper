@@ -76,7 +76,7 @@ for(let i=0; i<9; i++)
                     
                     document.getElementById(arr[y]).style.backgroundColor="red";
                     document.getElementById(arr[y]).style.verticalAlign="20px";
-                    document.getElementById(arr[y]).innerHTML="💣f";
+                    document.getElementById(arr[y]).innerHTML="💣";
                     over=true;
                 }
                 button.style.display="block";
